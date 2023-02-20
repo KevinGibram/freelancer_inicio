@@ -8,11 +8,12 @@
 
 html{
     font-size: 65.5%;
-    font-family: 'Krub', sans-serif;
+    
 }
 
 body{
     font-size: 16px; /* 1rem = 1px */
+    font-family: 'Krub', sans-serif;
 }
 .titulo {
     text-align: center;

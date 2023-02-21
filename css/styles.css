@@ -29,10 +29,17 @@ body{
     margin: 0 auto;
 }
 
-.navegacion-principal{
-    background-color: var(--secundario);
-}
-
 .nav-bg{
     background-color: var(--secundario);
+}
+    
+.navegacion-principal{
+    display: flex;
+    padding-top: 1rem;
+    justify-content: space-evenly;
+}
+
+.navegacion-principal a{
+ color: var(--blanco);
+ text-decoration: none;
 }
